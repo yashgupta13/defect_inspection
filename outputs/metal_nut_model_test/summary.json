@@ -1,0 +1,11 @@
+{
+  "source": "/home/yash/Documents/tarak/metal_nut_model_test.mp4",
+  "overall_result": "PASS",
+  "frames_inspected": 100,
+  "frames_without_product": 0,
+  "raw_fail_frames": 0,
+  "stable_fail_frames": 0,
+  "fail_events": 0,
+  "avg_inference_ms": 201.0,
+  "elapsed_s": 21.2
+}
